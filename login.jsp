@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Owner Login - HomeEase</title>
+    <title>Owner Login - Home Ease</title>
     <style>
         body {
             font-family: 'Segoe UI', sans-serif;
